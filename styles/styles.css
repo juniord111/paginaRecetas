@@ -139,7 +139,7 @@ h1, h2,.secondary-title{
 .instructions ol {
     counter-reset: item; 
 }
-nutrition p {
+.nutrition p {
     width: 59vh;
     font-size: 0.8rem;
     color: hsl(30, 10%, 34%);
