@@ -1,0 +1,36 @@
+@media (max-width: 414px) {
+    .container {
+        width: 100%; 
+        padding: 10px; 
+    }
+
+    .imagen img {
+        width: 58vh; 
+        margin-top: 0;
+    }
+
+    .instructions {
+        width: 100%; 
+        padding: 10px; 
+    }
+
+    .instructions ol li {
+        padding-left: 2em; 
+    }
+
+    .instructions ol li::before {
+        width: 1.5em; 
+        padding-left: 0; 
+    }
+
+    .description,
+    .preparation,
+    .ingredients,
+    .nutrition {
+        padding: 10px; 
+    }
+
+    .nutrition p{
+        width: 45vh;
+    }
+}
