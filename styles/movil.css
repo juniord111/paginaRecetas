@@ -1,12 +1,16 @@
 @media (max-width: 414px) {
+    body{
+        height: auto;
+    }
+    
     .container {
-        width: 55vh; 
-        padding: 10px;
-        height: 270vh; 
+        width: 100%; 
+        padding: 0px;
+        height: 100%; 
     }
 
     .imagen img {
-        width: 55vh; 
+        width: 100%; 
         margin-top: 0;
     }
 
